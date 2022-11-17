@@ -7,6 +7,8 @@
 
 ![fraga github stats](https://github-readme-stats.vercel.app/api?username=jagustinha&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagustinha)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Conhecimento em Tecnologias
 
 <div style="display: incline_block"><br/>
@@ -25,3 +27,4 @@ www.emdesemvolvimento.com.br
 www.emdesemvolvimento.com.br
 
 www.emdesemvolvimento.com.br
+
